@@ -1,7 +1,7 @@
 [
     {
 		"id": 1,
-        "image": "https://example.com/product1.jpg",
+        "image": "https://i.ibb.co/WkBthBs/Rectangle-2-2.png",
         "title": "Introduction to C Programming",
         "details": "Learn the fundamentals of C programming with this comprehensive guide for beginners.",
         "price": 29.99,
@@ -9,7 +9,7 @@
     },
     {
 		"id": 2,
-        "image": "https://example.com/product2.jpg",
+        "image": "https://i.ibb.co/vBk6LYx/Rectangle-2-3.png",
         "title": "Introduction to Algorithms",
         "details": "Discover the world of algorithms and problem-solving techniques in this introductory course.",
         "price": 19.99,
@@ -17,7 +17,7 @@
     },
     {
 		"id": 3,
-        "image": "https://example.com/product3.jpg",
+        "image": "https://i.ibb.co/L1cMqJ6/Rectangle-2-4.png",
         "title": "Introduction to C++ for DSA",
         "details": "Master C++ programming and data structures for competitive programming and interviews.",
         "price": 99.99,
@@ -25,7 +25,7 @@
     },
     {
 		"id": 4,
-        "image": "https://example.com/product4.jpg",
+        "image": "https://i.ibb.co/kHQ1dw2/Rectangle-3.png",
         "title": "Basic Data Structures",
         "details": "Build a strong foundation in data structures with practical examples and exercises.",
         "price": 39.99,
@@ -33,7 +33,7 @@
     },
     {
 		"id": 5,
-        "image": "https://example.com/product5.jpg",
+        "image": "https://i.ibb.co/hYWvhyY/Rectangle-2.png",
         "title": "Introduction to OOP Python",
         "details": "Explore object-oriented programming in Python and create efficient and reusable code.",
         "price": 49.99,
@@ -41,7 +41,7 @@
     },
     {
 		"id": 6,
-        "image": "https://example.com/product6.jpg",
+        "image": "https://i.ibb.co/6rBHrFN/Rectangle-2-5.png",
         "title": "Software Engineering",
         "details": "Learn software engineering principles and best practices for developing robust applications.",
         "price": 59.99,
@@ -49,7 +49,7 @@
     },
     {
 		"id": 7,
-        "image": "https://example.com/product7.jpg",
+        "image": "https://i.ibb.co/BrbzK9N/Rectangle-3-1.png",
         "title": "AWS, Cloud Computing",
         "details": "Dive into cloud computing and AWS services to deploy and manage scalable applications.",
         "price": 34.99,
@@ -57,7 +57,7 @@
     },
     {
 		"id": 8,
-        "image": "https://example.com/product8.jpg",
+        "image": "https://i.ibb.co/gPW3tqd/Rectangle-2-1.png",
         "title": "Database (MySQL)",
         "details": "Master MySQL database management and design for efficient data storage and retrieval.",
         "price": 79.99,
@@ -65,7 +65,7 @@
     },
     {
 		"id": 9,
-        "image": "https://example.com/product9.jpg",
+        "image": "https://i.ibb.co/JQ2FcpY/Rectangle-2-6.png",
         "title": "Problem-Solving Part",
         "details": "Enhance your problem-solving skills with challenging exercises and real-world scenarios.",
         "price": 24.99,
