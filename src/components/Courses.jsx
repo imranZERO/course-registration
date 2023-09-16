@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react';
 import Course from './Course';
 
-const Courses = () => {
+const Courses = ({handleAddToCourseList}) => {
 	const [courses, setCourses] = useState([]);
 
 	useEffect(() => {
@@ -13,7 +13,7 @@ const Courses = () => {
 	return (
 		<>
 			{courses.map((course, idx) => (
-				<Course key={idx} course={course}></Course>
+				<Course key={idx} course={course} handleAddToCourseList={handleAddToCourseList}></Course>
 			))}
 		</>
 	);
