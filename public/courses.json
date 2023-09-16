@@ -4,7 +4,7 @@
         "image": "https://i.ibb.co/WkBthBs/Rectangle-2-2.png",
         "title": "Introduction to C Programming",
         "details": "Learn the fundamentals of C programming with this comprehensive guide for beginners.",
-        "price": 29.99,
+        "price": 15000,
         "credit": 1
     },
     {
@@ -12,7 +12,7 @@
         "image": "https://i.ibb.co/vBk6LYx/Rectangle-2-3.png",
         "title": "Introduction to Algorithms",
         "details": "Discover the world of algorithms and problem-solving techniques in this introductory course.",
-        "price": 19.99,
+        "price": 25000,
         "credit": 2
     },
     {
@@ -20,23 +20,23 @@
         "image": "https://i.ibb.co/L1cMqJ6/Rectangle-2-4.png",
         "title": "Introduction to C++ for DSA",
         "details": "Master C++ programming and data structures for competitive programming and interviews.",
-        "price": 99.99,
-        "credit": 3
+        "price": 10000,
+        "credit": 10
     },
     {
 		"id": 4,
         "image": "https://i.ibb.co/kHQ1dw2/Rectangle-3.png",
         "title": "Basic Data Structures",
         "details": "Build a strong foundation in data structures with practical examples and exercises.",
-        "price": 39.99,
-        "credit": 4
+        "price": 35000,
+        "credit": 5
     },
     {
 		"id": 5,
         "image": "https://i.ibb.co/hYWvhyY/Rectangle-2.png",
         "title": "Introduction to OOP Python",
         "details": "Explore object-oriented programming in Python and create efficient and reusable code.",
-        "price": 49.99,
+        "price": 19000,
         "credit": 5
     },
     {
@@ -44,31 +44,31 @@
         "image": "https://i.ibb.co/6rBHrFN/Rectangle-2-5.png",
         "title": "Software Engineering",
         "details": "Learn software engineering principles and best practices for developing robust applications.",
-        "price": 59.99,
-        "credit": 6
+        "price": 23000,
+        "credit": 2
     },
     {
 		"id": 7,
         "image": "https://i.ibb.co/BrbzK9N/Rectangle-3-1.png",
         "title": "AWS, Cloud Computing",
         "details": "Dive into cloud computing and AWS services to deploy and manage scalable applications.",
-        "price": 34.99,
-        "credit": 7
+        "price": 35000,
+        "credit": 5
     },
     {
 		"id": 8,
         "image": "https://i.ibb.co/gPW3tqd/Rectangle-2-1.png",
         "title": "Database (MySQL)",
         "details": "Master MySQL database management and design for efficient data storage and retrieval.",
-        "price": 79.99,
-        "credit": 8
+        "price": 19000,
+        "credit": 5
     },
     {
 		"id": 9,
         "image": "https://i.ibb.co/JQ2FcpY/Rectangle-2-6.png",
         "title": "Problem-Solving Part",
         "details": "Enhance your problem-solving skills with challenging exercises and real-world scenarios.",
-        "price": 24.99,
-        "credit": 9
+        "price": 26000,
+        "credit": 2
     }
 ]
