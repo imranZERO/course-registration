@@ -10,10 +10,10 @@ const Course = ({course, handleAddToCourseList}) => {
 			<figure className="rounded-b-2xl">
 				<img src={image} alt="" className="rounded-xl" />
 			</figure>
-			<div className="card-body items-center py-4 px-0">
+			<div className="card-body py-4 px-0 justify-start items-start">
 				<h2 className="card-title text-lg">{title}</h2>
-				<p className="text-sm">{details}</p>
-				<div className="flex flex-col lg:flex-row w-full justify-between items-center gap-2">
+				<p className="text-[#1C1B1B99]">{details}</p>
+				<div className="flex flex-col lg:flex-row w-full justify-between items-center gap-2 mt-1">
 					<p className="flex items-center justify-start">
 						<BiDollar className="text-xl"></BiDollar>
 						Price: {price}
